@@ -1,4 +1,5 @@
-#Kiuran Naidoo
+#Kiuran Naidoo (23-02-2017)
+#Script pulls data from an Agilent FieldFox to a computer in .CSV format
 import visa
 import datetime
 import time
